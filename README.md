@@ -56,12 +56,10 @@ Target Feature:
 
 # Modified data and pre-modified data
 - Modified data:
-- Data where we dropped one of two features with high correlation.
-   name = “After_dropping_corr_features2”
+- Data where we dropped one of two features with high correlation. Name = “After_dropping_corr_features2”
   
 - Pre-modified data:
-- Data without the dropped columns
-   name = “data_encoded”
+- Data without the dropped columns. Name = “data_encoded”
 
 
 
